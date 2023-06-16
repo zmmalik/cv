@@ -27,12 +27,8 @@ I have over 1 year of experience as a software developer, specializing in the ME
 ### Full MEAN Stack
 **Walee Technologies**
 
-- Customer Care Platform for PTCL – [Walee Technologies](https://www.staging.foodpanda.walee.pk)
-- Notification Management System (NMS)
-- Document Management System (DMS)
-- Applicant Tracking System (ATS)
-- Roster module
-- [Appgenii PeopleI Tech](https://appgenii.peoplei.tech)
+- LiveStats: An HTML5 and CSS3 theme using bootstrap 
+- Customer Care Platform for PTCL – [Customer Care PTCL](https://www.staging.foodpanda.walee.pk)
 
 ## Key Skills and Characteristics
 
