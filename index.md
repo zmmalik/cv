@@ -4,10 +4,13 @@
 - Location: Lahore, Pakistan
 - Email: malikzee979@gmail.com
 - GitHub: [Zeeshan Malik](https://github.com/zmmalik)
+- LinkedIn: [Zeeshan Malik](https://www.linkedin.com/in/zeeshan-malik-680a6a222/)
 
 ## Summary
 
-I have over 1 year of experience as a software developer, specializing in the MEAN stack, JavaScript, HTML, and CSS. With a strong background in mathematics, algorithms, and data structures, along with a solid understanding of object-oriented programming (OOP), I have successfully led and mentored other developers while delivering innovative solutions. My focus on clean coding practices and effective debugging has consistently contributed to the delivery of high-quality products to clients. I believe that my skills, experience, and passion for software development make me a suitable candidate for any software development position.
+Experienced web developer with a solid foundation in **HTML5**, **CSS3**, and **JavaScript**, complemented by a proficiency in **MEAN stack**. Possess over a year of hands-on expertise in web technologies. Additionally, gained valuable insight into **Shopify** with a couple of months of hands-on experience. Adept in **Liquid** syntax, Shopify store development flow, and key components like templates, sections, blocks, snippets, locales and settings. Familiar with basic **Git** principles and **eCommerce** concepts.
+
+**Successfully crafted dynamic carousels and integrated menu item images seamlessly. Accomplished in adding icons to menu items based on user-defined inputs. Aiming to contribute and enhance Shopify solutions with creative problem-solving.**
 
 ## Experience
 
@@ -19,11 +22,13 @@ I have over 1 year of experience as a software developer, specializing in the ME
 
 ## Key Skills and Characteristics
 
+- Shopify
 - MEAN stack
 - JavaScript
 - HTML5
 - CSS3
 - TypeScript
+- Git
 
 ## Education
 
