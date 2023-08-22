@@ -1,14 +1,15 @@
 # Zeeshan Malik
-Phone: +92-304-6499250 | Location: Lahore, Pakistan
-Email: malikzee979@gmail.com | GitHub: [Zeeshan Malik](https://github.com/zeeshan-malik) | LinkedIn: [Zeeshan Malik](https://www.linkedin.com/in/zeeshan-malik)
+- Phone: +92-304-6499250
+- Location: Lahore, Pakistan
+- Email: malikzee979@gmail.com
+- GitHub: [Zeeshan Malik](https://github.com/zeeshan-malik)
+- LinkedIn: [Zeeshan Malik](https://www.linkedin.com/in/zeeshan-malik)
 
 ## Summary
 Experienced web developer with a solid foundation in HTML5, CSS3, and JavaScript, complemented by a proficiency in MEAN stack. Possess over a year of hands-on expertise in web technologies. Additionally, gained valuable insight into Shopify with a couple of months of hands-on experience. Adept in Liquid syntax, Shopify store development flow, and key components like templates, sections, blocks, snippets, locales and settings. Familiar with basic Git principles and eCommerce concepts.
 
-Successfully crafted dynamic carousels and integrated menu item images seamlessly. Accomplished in adding icons to menu items based on user-defined inputs. Aiming to contribute and enhance Shopify solutions with creative problem-solving.
-
 ## Objective
-Experienced web developer with a solid foundation in HTML5, CSS3, and JavaScript, complemented by proficiency in MEAN stack. Seeking opportunities to contribute innovative solutions and enhance Shopify platforms.
+Seeking opportunities to contribute innovative solutions and enhance Shopify platforms.
 
 ## Experience
 **Shopify Developer** | Personal Practice
@@ -30,10 +31,6 @@ Experienced web developer with a solid foundation in HTML5, CSS3, and JavaScript
 
 ## Education
 **Bachelor of Science in Software Engineering** | Virtual University
-
-## Projects
-- **LiveStats**: Developed a responsive HTML5 and CSS3 theme using Bootstrap for dynamic content display.
-- **Customer Care PTCL**: Collaborated on building a customer care platform using the MEAN stack.
 
 ## Activities and Interests
 - Keeping up-to-date with emerging technologies
