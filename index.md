@@ -11,9 +11,13 @@ Successfully crafted dynamic carousels and integrated menu item images seamlessl
 Experienced web developer with a solid foundation in HTML5, CSS3, and JavaScript, complemented by proficiency in MEAN stack. Seeking opportunities to contribute innovative solutions and enhance Shopify platforms.
 
 ## Experience
-**Web Developer** | Walee Technologies
+**Shopify Developer** | Personal Practice
 - Successfully created dynamic carousels and seamlessly integrated menu item images.
 - Implemented user-defined input to add icons to menu items.
+- Added products and created new collections.
+- Digged in shopify for better understanding of flow.
+
+**Web Developer** | Walee Technologies
 - Contributed to the development of LiveStats, an HTML5 and CSS3 theme using Bootstrap.
 - Collaborated on the Customer Care Platform for PTCL.
 
