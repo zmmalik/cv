@@ -20,9 +20,11 @@ Seeking opportunities to contribute innovative solutions and enhance Shopify pla
 - Digged in shopify apps development and gained familiarity with @shopify/app library and workflow.
 
 **Web Developer** | Walee Technologies
+
 **MEAN projects**
 - Contributed to the development of LiveStats, an HTML5 and CSS3 theme using Bootstrap.
 - Collaborated on the Customer Care Platform for PTCL.
+
 **MERN projects**
 - Worked on ERP system's modules such as Attendance, **Hiring, Document, Notifications, Intern Management**
 
